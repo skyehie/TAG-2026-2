@@ -1,0 +1,7 @@
+networkx>=3.3
+pandas
+matplotlib
+numpy
+scipy
+jupyter
+ipykernel
